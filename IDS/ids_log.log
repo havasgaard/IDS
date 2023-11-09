@@ -1,0 +1,25 @@
+2023-11-09 21:28:52,826:INFO:package: mysql.connector.plugins
+2023-11-09 21:28:52,826:INFO:plugin_name: caching_sha2_password
+2023-11-09 21:28:52,826:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2023-11-09 21:31:40,893:INFO:Interrupt received, shutting down ...
+2023-11-09 21:33:34,276:INFO:package: mysql.connector.plugins
+2023-11-09 21:33:34,276:INFO:plugin_name: caching_sha2_password
+2023-11-09 21:33:34,276:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2023-11-09 21:34:35,293:INFO:Interrupt received, shutting down ...
+2023-11-09 21:34:36,811:INFO:package: mysql.connector.plugins
+2023-11-09 21:34:36,811:INFO:plugin_name: caching_sha2_password
+2023-11-09 21:34:36,811:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2023-11-09 21:35:28,763:INFO:Interrupt received, shutting down ...
+2023-11-09 21:38:50,318:INFO:package: mysql.connector.plugins
+2023-11-09 21:38:50,319:INFO:plugin_name: caching_sha2_password
+2023-11-09 21:38:50,319:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2023-11-09 21:39:09,523:INFO:Interrupt received, shutting down ...
+2023-11-09 21:41:29,055:INFO:package: mysql.connector.plugins
+2023-11-09 21:41:29,056:INFO:plugin_name: caching_sha2_password
+2023-11-09 21:41:29,056:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2023-11-09 21:41:32,616:INFO:Interrupt received, shutting down ...
+2023-11-09 21:41:41,182:INFO:package: mysql.connector.plugins
+2023-11-09 21:41:41,182:INFO:plugin_name: caching_sha2_password
+2023-11-09 21:41:41,183:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2023-11-09 21:41:41,391:INFO:Cleared all traffic logs.
+2023-11-09 21:42:10,030:INFO:Interrupt received, shutting down ...
