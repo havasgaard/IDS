@@ -114,7 +114,7 @@ def process_packet(packet):
 
 
 # Uncomment the next line to clear all traffic logs before starting the sniffing process
-clear_traffic_logs()
+#clear_traffic_logs()
 
 # Start sniffing the network
 sniff(prn=process_packet, store=False)
